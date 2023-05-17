@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IMUReader</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Dados dos Sensores</string>
+    <string name="second_fragment_label">Experiência</string>
+    <string name="title_activity_find_device_acitiviyy">FindDeviceAcitiviyy</string>
+    <string name="gravity">Aceleração da Gravidade</string>
+    <string name="searching">Buscando...</string>
+    <string name="located">Dispositivos Disponíveis</string>
+    <string name="search_devices">Buscar Dispositivos</string>
+    <string name="acelerometer">Acelerômetro</string>
+    <string name="gyro">Giroscópio</string>
+    <string name="experience">Experimentos</string>
+    <string name="linear_acel">Aceleração Linear:</string>
+    <string name="x_orienta">Sentido Eixo X::</string>
+    <string name="y_orienta">Sentido Eixo Y::</string>
+    <string name="z_orienta">Sentido Eixo Z:</string>
+</resources>
